@@ -13,14 +13,14 @@ OBJECTIVES:
 - Identifying best selling items and sales trends
 - Creating visualizations to communicate key insights
 
-  TOOLS THAT WERE USED:
+TOOLS THAT WERE USED:
 - Excel
 - SQL
 - Canva
 - Miro
 - Google sheets
 
-  ANALYSIS IDEAS:
+ ANALYSIS IDEAS:
   - Total sales per day,week or month
   - Sales by product category
   - Most popular pay method
