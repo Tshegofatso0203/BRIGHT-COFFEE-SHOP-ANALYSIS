@@ -1,0 +1,51 @@
+🧪 Methodology: Bright Coffee Shop Analysis
+This project aims to analyze customer transactions from Bright Coffee Shop to gain insights into sales trends, product performance, and customer behavior. The following steps outline the methodology used for this analysis:
+
+1. Data Collection
+The transactional data was obtained from a CSV file titled Bright Coffee Shop Analysis.xlsx - Transactions.csv.
+
+This dataset includes details such as date, time, product sold, quantity, and price.
+
+2. Data Cleaning & Preprocessing
+Checked for and handled missing or null values.
+
+Removed or corrected inconsistent data entries (e.g., malformed dates, wrong product names).
+
+Converted data types where necessary (e.g., date/time formatting, numerical values).
+
+Created derived columns, such as:
+
+Total Sales = Quantity × Unit Price
+
+Day of Week, Hour of Sale, etc.
+
+3. Exploratory Data Analysis (EDA)
+Analyzed transaction patterns over time (daily, weekly, hourly).
+
+Identified best-selling products by quantity and revenue.
+
+Visualized customer purchase behaviors and peak hours.
+
+Used descriptive statistics and charts (bar charts, line graphs, histograms).
+
+4. Insights Extraction
+Determined top-performing product categories.
+
+Identified low-performing items and possible reasons.
+
+Analyzed peak business hours and days.
+
+Suggested recommendations for inventory management and promotions.
+
+5. Tools & Technologies
+Excel and/or Python (Pandas, Matplotlib, Seaborn) for data manipulation and visualization.
+
+SQL for querying structured versions of the dataset (optional).
+
+Power BI/Tableau for dashboards (optional, if used).
+
+6. Reporting
+Compiled findings into a comprehensive report or dashboard.
+
+Shared actionable insights and business recommendations based on data trends.
+
