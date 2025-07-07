@@ -1,4 +1,4 @@
-This project involes the analysis of transaction data from BRIGHT COFFEE SHOP to gain insights
+This project involves the analysis of transaction data from BRIGHT COFFEE SHOP to gain insights
 
 BRIGHT COFFEE SHOP ANALYSIS  contains transactional data including:
 - Transactiondates and time
